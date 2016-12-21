@@ -1,1 +1,1 @@
-just me rumbling through some of the algorhithm questions
+just me rumbling through some of the algorithm questions
